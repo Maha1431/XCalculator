@@ -1,0 +1,27 @@
+.btn{
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+ .button-row{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ }
+ .calc-btn {
+    margin: 5px;
+    font-size: 18px;
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+  }
+.container{
+    text-align: center;
+}
+.result{
+    color: #9c9999;
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
